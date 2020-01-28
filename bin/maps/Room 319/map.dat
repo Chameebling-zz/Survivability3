@@ -1,0 +1,5 @@
+chunk 0 0
+
+component 0 [cnn,up,0,0,64,64,0]
+
+component 1 [cnn,up,0,0,64,64,0]
